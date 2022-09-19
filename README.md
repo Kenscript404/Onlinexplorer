@@ -39,6 +39,7 @@ Feel free to [open a PR](https://github.com/DenverCoder1/readme-typing-svg/issue
 |   `pause`    |     Duration of the pause between lines in milliseconds (default: `0`)      | integer |       Any non-negative number       |
 
 ## 📤 Deploying it on your own
+https://readme-typing-svg.demolab.com/demo/
 
 If you can, it is preferable to host the files on your own server.
 
