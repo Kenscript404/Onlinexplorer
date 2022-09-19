@@ -3,10 +3,7 @@
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=20D724&center=true&vCenter=true&width=320&lines=I'm+Kenneth%2C+23+Years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
