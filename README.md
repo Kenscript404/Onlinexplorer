@@ -12,16 +12,7 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-## ⚡ Quick setup
-
-1. Copy-paste the markdown below into your GitHub profile README
-2. Replace the value after `?lines=` with your text. Separate lines of text with semicolons and use `+` or `%20` for spaces.
-3. (Optional) Adjust the width parameter (see below) to fit the full width of your text.
-
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
-
+ 
  
 ## 🚀 Example usage
 
