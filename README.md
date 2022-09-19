@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h3 align="center">⌨️ Im Kenneth N.Genobisa also known as Ken, and I'm a top GitHub committer with 3 years of expertise in Security and Web development. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.</h3>
+   ⌨️ Im Kenneth N.Genobisa also known as Ken, and I'm a top GitHub committer with 3 years of expertise in Security and Web development. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.</h3>
 </p>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=20D724&center=true&vCenter=true&width=320&lines=I'm+Kenneth%2C+23+Years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
