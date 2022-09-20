@@ -3,13 +3,8 @@
      <h3 align="center">⌨️Welcome to Kenneth N.Genobisa profile! </h3>
 </p>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=20D724&center=true&vCenter=true&width=320&lines=I'm+Kenneth%2C+23+Years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo2&pause=100&color=92F765&background=28A4FF00&center=true&vCenter=true&width=502&lines=I'm+Kenneth+N+Genobisa;Full-stack+web+and+apps+Developer;Always+Learning+new+things;First%2Csolve+the+problem.+Then%2C+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
+ 
 <!-- markdownlint-enable MD033 -->
 
   
