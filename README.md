@@ -8,13 +8,12 @@
  <!-- markdownlint-disable MD033 -->
 <p align="left"> 
     <a href=" https://www.facebook.com/Techsulotion"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p> 
+ 
   <a href="https://www.facebook.com/Programmers2/"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 
-  https://www.facebook.com/Techsulotion
-
+  
 |  Parameter   |                                   Details                                   |  Type   |               Example               |
 | :----------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------: |
 |   `lines`    |       Text to display with lines separated by `;` and `+` for spaces        | string  | `First+line;Second+line;Third+line` |
