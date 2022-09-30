@@ -5,6 +5,11 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo2&pause=100&color=92F765&background=28A4FF00&center=true&vCenter=true&width=502&lines=I'm+Kenneth+N+Genobisa;Full-stack+web+and+apps+Developer;Always+Learning+new+things;First%2Csolve+the+problem.+Then%2C+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
  
+ <!-- markdownlint-disable MD033 -->
+<p align="left"> 
+    
+  <a href="https://www.facebook.com/Programmers2/"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 <!-- markdownlint-enable MD033 -->
 
   
@@ -107,11 +112,7 @@ composer test
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 <!-- markdownlint-disable MD033 -->
-<p align="left">
-  <a href=" https://www.facebook.com/Programmers2/" /></a>
-  <a href="https://www.facebook.com/Programmers2/"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-<!-- markdownlint-enable MD033 -->
+ 
 
 [☕ Buy me a coffee](https://ko-fi.com/jlawrence)
 
