@@ -5,12 +5,11 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo2&pause=100&color=92F765&background=28A4FF00&center=true&vCenter=true&width=502&lines=I'm+Kenneth+N+Genobisa;Full-stack+web+and+apps+Developer;Always+Learning+new+things;First%2Csolve+the+problem.+Then%2C+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
  
- <!-- markdownlint-disable MD033 -->
+ 
  
 
       https://www.facebook.com/Programmers2/ 
-<!-- markdownlint-enable MD033 -->
-
+ 
   
 |  Parameter   |                                   Details                                   |  Type   |               Example               |
 | :----------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------: |
