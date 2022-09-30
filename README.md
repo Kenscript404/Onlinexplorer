@@ -8,7 +8,7 @@
  <!-- markdownlint-disable MD033 -->
  
 
-     
+      https://www.facebook.com/Programmers2/ 
 <!-- markdownlint-enable MD033 -->
 
   
@@ -29,8 +29,8 @@
 
 ## 📤 Deploying it on your own
 https://readme-typing-svg.demolab.com/demo/
- https://www.facebook.com/Programmers2/ 
- https://www.facebook.com/Techsulotion
+-   [Facebook page]( https://www.facebook.com/Programmers2/)
+
 If you can, it is preferable to host the files on your own server.
 
 Doing this can lead to better uptime and more control over customization (you can modify the code for your usage).
