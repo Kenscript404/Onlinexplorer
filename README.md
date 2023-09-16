@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -43,8 +43,8 @@
 
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-     <h3 align="center">⌨️Hi 👋 I'm Kenneth N. Genobisa  </h3>
-</p>
+     <!--h3 align="center">⌨️Hi 👋 I'm Kenneth N. Genobisa  </h3>
+</p--!>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo2&pause=100&color=92F765&background=28A4FF00&center=true&vCenter=true&width=502&lines=I'm+Kenneth+N+Genobisa;Full-stack+web+and+apps+Developer;Always+Learning+new+things;First%2Csolve+the+problem.+Then%2C+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
  
