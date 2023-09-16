@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-     <h3 align="center">⌨️Welcome to Kenneth N.Genobisa profile! </h3>
+     <h3 align="center">⌨️Hi 👋 I'm Kenneth N. Genobisa  </h3>
 </p>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo2&pause=100&color=92F765&background=28A4FF00&center=true&vCenter=true&width=502&lines=I'm+Kenneth+N+Genobisa;Full-stack+web+and+apps+Developer;Always+Learning+new+things;First%2Csolve+the+problem.+Then%2C+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
@@ -12,25 +12,11 @@
 <!-- markdownlint-enable MD033 -->
 
   
-|  Parameter   |                                   Details                                   |  Type   |               Example               |
-| :----------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------: |
-|   `lines`    |       Text to display with lines separated by `;` and `+` for spaces        | string  | `First+line;Second+line;Third+line` |
-|   `height`   |             Height of the output SVG in pixels (default: `50`)              | integer |         Any positive number         |
-|   `width`    |             Width of the output SVG in pixels (default: `400`)              | integer |         Any positive number         |
-|    `size`    |                     Font size in pixels (default: `20`)                     | integer |         Any positive number         |
-|    `font`    |                     Font family (default: `monospace`)                      | string  |     Any font from Google Fonts      |
-|   `color`    |                    Color of the text (default: `36BCF7`)                    | string  |  Hex code without # (eg. `F724A9`)  |
-| `background` |             Background color of the text (default: `00000000`)              | string  |  Hex code without # (eg. `FEFF4C`)  |
-|   `center`   |    `true` to center text or `false` for left aligned (default: `false`)     | boolean |          `true` or `false`          |
-|  `vCenter`   |  `true` to center vertically or `false`(default) to align above the center  | boolean |          `true` or `false`          |
-| `multiline`  |  `true` to wrap lines or `false` to retype on one line (default: `false`)   | boolean |          `true` or `false`          |
-|  `duration`  | Duration of the printing of a single line in milliseconds (default: `5000`) | integer |         Any positive number         |
-|   `pause`    |     Duration of the pause between lines in milliseconds (default: `0`)      | integer |       Any non-negative number       |
 
 ## 📤 Deploying it on your own
 https://readme-typing-svg.demolab.com/demo/
--   [Facebook page]( https://www.facebook.com/Programmers2/)
--   [Facebook page](https://www.facebook.com/Techsulotion)
+- [Facebook page](https://www.facebook.com/Cyberprog101)
+
 
 
 If you can, it is preferable to host the files on your own server.
@@ -83,7 +69,7 @@ cd readme-typing-svg
 composer start
 ```
 
-Open <http://localhost:8000/> and add parameters to run the project locally.
+
 
 ### Running the tests
 
@@ -106,7 +92,7 @@ composer test
 <!-- markdownlint-disable MD033 -->
  
 
-[☕ Buy me a coffee](https://ko-fi.com/jlawrence)
+[☕ Buy me a coffee](https://www.facebook.com/Cyberprog101)
 
 ---
 
