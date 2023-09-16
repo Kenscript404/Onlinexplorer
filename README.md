@@ -35,7 +35,7 @@ Made with ❤️ and PHP
 
 <!-- markdownlint-disable MD033 -->
 
-<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by KenToy" src="https://www.facebook.com/Cyberprog101"/></a>
+ 
 
 <!-- markdownlint-enable MD033 -->
 
