@@ -58,7 +58,7 @@
   
 
 ## 📤 Deploying it on your own
-https://readme-typing-svg.demolab.com/demo/
+<!--https://readme-typing-svg.demolab.com/demo/-->
 - [Facebook page](https://www.facebook.com/Cyberprog101)
 
 
